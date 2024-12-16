@@ -1,7 +1,7 @@
 # STA314-Alzheimer-Disease-Detection
 A machine learning project from University of Toronto's STA314 course
 
-Dataset:
+Dataset: https://www.kaggle.com/competitions/classification-of-the-alzheimers-disease/overview
 
 ## EDA
 
